@@ -2,7 +2,7 @@ Dice Challenge Game
 
 -->> Refresh The page to Play the game.
 
--->>Include Files
+-->>Included Files
     
     -->>dicee.html
     -->>index.js
